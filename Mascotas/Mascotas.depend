@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1474902404 source:f:\c\clase 10 - 19.09\mascotas (edit by yo)\mascotas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+
+1474900730 f:\c\clase 10 - 19.09\mascotas (edit by yo)\mascotas\funciones.h
+
+1474902404 source:f:\c\clase 10 - 19.09\mascotas (edit by yo)\mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+
+1475023424 source:e:\c\clase 11 - 26.09\mascotas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+
+1475023456 e:\c\clase 11 - 26.09\mascotas\funciones.h
+
+1475023478 source:e:\c\clase 11 - 26.09\mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+
