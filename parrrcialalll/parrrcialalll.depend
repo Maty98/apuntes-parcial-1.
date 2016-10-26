@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1477438873 source:c:\users\horacio\videos\parrrcialalll\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"lib.h"
+
+1477439294 c:\users\horacio\videos\parrrcialalll\lib.h
+
+1477438892 source:c:\users\horacio\videos\parrrcialalll\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"lib.h"
+

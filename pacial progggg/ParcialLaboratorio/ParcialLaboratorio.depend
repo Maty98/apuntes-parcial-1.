@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1475678214 source:e:\parciallaboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"lib.h"
+
+1475679246 source:e:\parciallaboratorio\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"lib.h"
+
+1475678620 e:\parciallaboratorio\lib.h
+
+1477424905 source:c:\users\horacio\videos\pacial progggg\parciallaboratorio\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"lib.h"
+
+1475678620 c:\users\horacio\videos\pacial progggg\parciallaboratorio\lib.h
+
+1475678214 source:c:\users\horacio\videos\pacial progggg\parciallaboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"lib.h"
+
